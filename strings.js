@@ -17,6 +17,9 @@ let myName="surabhi";
 
 // console.log(myName.includes('sur'));
 
-const url="kiran.com-02-07-2000"
-console.log(url.split('-'))
+// const url="kiran.com-02-07-2000"
+// console.log(url.split('-'))
+
+let str = "The quick brown fox";
+console.log(str.match(brown));
 
