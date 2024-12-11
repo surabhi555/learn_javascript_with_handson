@@ -39,4 +39,5 @@ console.log(nowstamp);
 // now.toLocaleDateString("en-US"); // e.g., "12/10/2024"
 // now.toLocaleTimeString("en-US"); // e.g., "10:30:00 AM"
 // now.toLocaleString("en-US"); // Date and time
+//done
 
